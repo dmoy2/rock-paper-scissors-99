@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# rock-paper-scissors-99
-=======
 # Rock Paper Scissors x99
 
 ## Project Overview
